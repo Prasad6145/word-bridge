@@ -14,6 +14,9 @@
 - **SpeechRecognition** (Voice Input)
 - **gTTS (Google Text-to-Speech)** (Speech Output)
 - **pydub** (Audio Processing)
+Live Demo 🚀
+🔗 Try it on Hugging Face
+https://huggingface.co/spaces/prasad6145/language_translator
 
 ## Installation 📥
 ```bash
